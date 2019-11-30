@@ -1,5 +1,5 @@
 # Breast-Cancer-Classification-Binomial-Classification
-Breast Cancer Classification – Binomial Classification
+
 I.	Problem Statement: 
 Classify the sample into malignant tumor (0) or Benign tumor (1) based on the various features of the cell.
 
